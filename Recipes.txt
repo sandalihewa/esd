@@ -5,5 +5,7 @@ kheer
 pasta
 Chicken curry
 
+Beans
+Pizza
 
 Thank you.
